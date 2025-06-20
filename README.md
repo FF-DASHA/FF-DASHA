@@ -1,6 +1,7 @@
 # FRONTEND-DEVELOPER
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exampleUser&show_icons=true&bg_color=000000&text_color=FF0000&icon_color=808080&title_color=808080&border_color=808080&ring_color=808080)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FF-DASHA&show_icons=true&bg_color=000000&text_color=FF0000&icon_color=808080&title_color=808080&border_color=808080&ring_color=808080)
+
 
 
  ## 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝚈
