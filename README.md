@@ -33,3 +33,12 @@
   <p style="margin: 0;">Количество файлов: <img src="https://img.shields.io/badge/Files-50%2B-black" alt="Files" style="vertical-align: middle;" /></p>
   <p style="margin: 0;">Количество коммитов: <img src="https://img.shields.io/badge/Commits-20%2B-black" alt="Commits" style="vertical-align: middle;" /></p>
 </div>
+
+## 📫 Контакты
+
+<div style="background-color: #000000; padding: 20px; border-radius: 10px; color: #FFFFFF;">
+  <p style="margin: 0;">Вы можете связаться со мной через:</p>
+  <p style="margin: 0;">
+    Telegram: <a href="https://t.me/ваш_никнейм" style="color: #FF0000; text-decoration: none;">@F_DAaSha</a>
+  </p>
+</div>
