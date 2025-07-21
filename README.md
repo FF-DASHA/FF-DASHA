@@ -39,6 +39,6 @@
 <div style="background-color: #000000; padding: 20px; border-radius: 10px; color: #FFFFFF;">
   <p style="margin: 0;">Вы можете связаться со мной через:</p>
   <p style="margin: 0;">
-    Telegram: <a href="https://t.me/ваш_никнейм" style="color: #FF0000; text-decoration: none;">@F_DAaSha</a>
+    Telegram: <a href="https://t.me/ваш_никнейм" style="color: #FF0000; text-decoration: none;">@Dasha_D_Dev или @Frontend_DeV_V</a>
   </p>
 </div>
